@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 //push ke-4//
 
 Raihan Hafiizh Qurratu'Ain (@hidesec)
+=======
+fajar sangar tenan
+>>>>>>> fajar
